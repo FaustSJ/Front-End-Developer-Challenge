@@ -21,3 +21,6 @@ h4 {
     margin-left: 0px !important;
     margin-right: 0px;
 }
+fieldset {
+	border: 2px groove #666;
+}
