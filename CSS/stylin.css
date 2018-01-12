@@ -17,3 +17,7 @@ h4 {
 	font-family: Tahoma, Geneva, sans-serif;
     color: rgb(177,112,42);
 }
+.row {
+    margin-left: 200px;
+    margin-right: 200px;
+}
