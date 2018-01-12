@@ -1,6 +1,6 @@
 p {
 	font-size: 15px;
-	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color: rgb(0,65,129);
 }
 a {
@@ -8,12 +8,16 @@ a {
     color: darkgray;
     font-size: 15px;
 }
-h1 {
-	font-family: Lucida Console;
+h2 {
+	font-family: Impact, Charcoal, sans-serif
     color: rgb(207,163,31);
     border-bottom: 1px solid lightgray;
 }
 h4 {
-	font-family: Lucida;
+	font-family: Tahoma, Geneva, sans-serif
     color: rgb(177,112,42);
+}
+
+.row {
+    margin-left: 0px !important;
 }
